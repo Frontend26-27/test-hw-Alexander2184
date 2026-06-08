@@ -5,6 +5,39 @@ interface ReviewSubmissionProps {
     params: {
         assignmentId: string;
     };
+        params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    params: {
+        assignmentId: string;
+    };    
 
     logs: string[];
 }
